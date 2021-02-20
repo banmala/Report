@@ -1,0 +1,39 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Agile Model as Software Development Model\relax }}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Asana\relax }}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Create task in asana\relax }}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Create issue in gitlab\relax }}{14}{figure.caption.14}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Use case Diagram\relax }}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Context Diagram of Inference System\relax }}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Data Flow Diagram of Inference System\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Sequence Diagram of Inference System\relax }}{20}{figure.caption.18}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Gantt Chart\relax }}{21}{figure.caption.19}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces System Block Diagram\relax }}{22}{figure.caption.20}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Feature map of each cell\relax }}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Test image feeded to YOLO network\relax }}{25}{figure.caption.24}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Output image from YOLO network\relax }}{26}{figure.caption.25}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces YOLO v1 CNN\relax }}{26}{figure.caption.26}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Intersection Over Union \relax }}{29}{figure.caption.27}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Goodness measure of IOU\relax }}{29}{figure.caption.28}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Bounding Box Union and Intersection\relax }}{30}{figure.caption.29}%
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Non Maximum Suppression\relax }}{31}{figure.caption.30}%
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Result before and after Non-max Suppression\relax }}{32}{figure.caption.31}%
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Kalman Filter\relax }}{33}{figure.caption.32}%
+\contentsline {figure}{\numberline {7.12}{\ignorespaces YOLO with Kalman Filter\relax }}{33}{figure.caption.33}%
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Confusion Matrix\relax }}{37}{figure.caption.34}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Mockup Design main window for desktop App\relax }}{41}{figure.caption.35}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Mockup Design Logs window for desktop App\relax }}{42}{figure.caption.36}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Mockup Design Settings window for desktop App\relax }}{42}{figure.caption.37}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {9.1}{\ignorespaces Actual outcome of desktop App for dattatraya.mp4\relax }}{44}{figure.caption.39}%
+\contentsline {figure}{\numberline {9.2}{\ignorespaces MOT evaluation result\relax }}{47}{figure.caption.42}%
+\contentsline {figure}{\numberline {9.3}{\ignorespaces Mobile Outcome\relax }}{47}{figure.caption.43}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {10.1}{\ignorespaces Gantt Chart of project for iteration1 made with Instagantt\relax }}{49}{figure.caption.46}%
